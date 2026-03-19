@@ -72,7 +72,7 @@ OOP, Data Structures, DBMS, Operating Systems
 
 **B.Tech in Computer Science & Engineering **  
 Sambalpur University Institute of Information Technology  
-2022 – 2026 (Expected)
+2022 – 2026
 
 ---
 
