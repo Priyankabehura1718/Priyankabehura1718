@@ -13,7 +13,7 @@ Full-Stack Developer
 
 ## 🧠 Profile
 
-Aspiring Full-Stack Developer with a strong foundation in Data Structures & Algorithms and MERN stack technologies. Skilled in building responsive and scalable web applications while emphasizing clean code, performance, and security best practices.
+Aspiring Full-Stack Developer with a strong foundation in Data Structures & Algorithms. Skilled in building responsive and scalable web applications while emphasizing clean code, performance, and security best practices.
 ---
 
 ## 💼 Experience
@@ -60,7 +60,8 @@ Python, C, C++, JavaScript, SQL
 HTML, CSS, React.js, Node.js,Rest API  
 
 **Tools & Platforms:**  
-Burp Suite, Metasploit, Nmap, Wireshark, Git, Linux  
+Python, Django, Django REST Framework, React.js (Vite), SQL , Git, GitHub, Postman (API Testing), VS Code, JWT Authentication
+  
 
 **Core CS Concepts:**  
 OOP, Data Structures, DBMS, Operating Systems  
