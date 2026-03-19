@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Priyanka Behura
+ Hi, I'm Priyanka Behura
 ![](https://komarev.com/ghpvc/?username=priyankabehura)
 
-🎓 B.Tech Computer Science & Engineering   
+ B.Tech Computer Science & Engineering   
 Full-Stack Developer
 📍 Odisha, India  
 
@@ -11,12 +11,12 @@ Full-Stack Developer
 
 ---
 
-## 🧠 Profile
+##  Profile
 
 Aspiring Full-Stack Developer with a strong foundation in Data Structures & Algorithms. Skilled in building responsive and scalable web applications while emphasizing clean code, performance, and security best practices.
 ---
 
-## 💼 Experience
+##  Experience
 
 ### Reaserch Intern – NIT Rourkela, Odisha  
 **Jun 2025 – Jul 2025**
@@ -36,23 +36,23 @@ Aspiring Full-Stack Developer with a strong foundation in Data Structures & Algo
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🛡️ Malware Detection Using GenAI  
+### Malware Detection Using GenAI  
 **Python, TensorFlow, React**
 - Built a Random Forest-based malware classifier using Windows PE static features  
 - Achieved ~97% accuracy on malware detection  
 - Integrated Google Gemini API for explainable AI-based predictions  
 - Developed a React + Vite dashboard for real-time malware analysis and visualization  
 
-### 🕵️ PII Reduction Tool  
+### PII Reduction Tool  
 **Python, OpenCV**
 - Automated detection and redaction of personally identifiable information  
 - Designed to support privacy compliance and secure data handling  
 
 ---
 
-## 🛠️ Skills
+## Skills
 **Programming Languages:**  
 Python, C, C++, JavaScript, SQL  
 
@@ -68,7 +68,7 @@ OOP, Data Structures, DBMS, Operating Systems
 
 ---
 
-## 🎓 Education
+## Education
 
 **B.Tech in Computer Science & Engineering **  
 Sambalpur University Institute of Information Technology  
@@ -76,7 +76,7 @@ Sambalpur University Institute of Information Technology
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - Google Cybersecurity Professional Certificate (2024)  
 - FreeCodeCamp Web & JavaScript Algorithms (2025)  
@@ -85,7 +85,7 @@ Sambalpur University Institute of Information Technology
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 - Reasearch Intern at **NIT Rourkela**  
 - **Hacktoberfest** Open-Source Contributor  
