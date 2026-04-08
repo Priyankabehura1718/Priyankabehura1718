@@ -99,7 +99,7 @@ OOP • Data Structures • DBMS • Operating Systems
 
 ## Achievements
 
-*  - ⭐ 4-Star in HackerRank (Data Structures & Algorithms) — [View Profile](https://www.hackerrank.com/profile/priyankabehura51)
+*  4-Star in HackerRank (Data Structures & Algorithms) — [View Profile](https://www.hackerrank.com/profile/priyankabehura51)
 *  Participant – Smart India Hackathon
 *  Active Open-Source Contributor (Hacktoberfest)
 *  Member – Google Developer Group (GDG)
