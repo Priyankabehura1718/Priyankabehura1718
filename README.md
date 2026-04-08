@@ -1,9 +1,10 @@
- Hi, I'm Priyanka Behura
+# Hi, I'm Priyanka Behura
+
 ![](https://komarev.com/ghpvc/?username=priyankabehura)
 
- B.Tech Computer Science & Engineering   
-Full-Stack Developer
-📍 Odisha, India  
+**Full-Stack Developer | React • Django • APIs • AI Integration**
+ B.Tech Computer Science & Engineering (2022–2026)
+📍 Odisha, India
 
 [![Email](https://img.shields.io/badge/Email-priyankabehura584%40gmail.com-red)](mailto:priyankabehura584@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-priyankabehura-black)](https://github.com/priyankabehura)
@@ -11,86 +12,109 @@ Full-Stack Developer
 
 ---
 
-##  Profile
+## About Me
 
-Aspiring Full-Stack Developer with a strong foundation in Data Structures & Algorithms. Skilled in building responsive and scalable web applications while emphasizing clean code, performance, and security best practices.
+Full-Stack Developer with hands-on experience in building **responsive web applications and scalable backend systems**.
+I enjoy developing **clean, user-friendly interfaces** and connecting them with efficient APIs.
+
+🔹 Strong foundation in **Data Structures & Algorithms**
+🔹 Experience with **React, Django, and REST APIs**
+🔹 Focus on **performance, scalability, and clean code**
+
 ---
 
-##  Experience
+## Experience
+### Research Intern — NIT Rourkela
+Jun 2025 – Jul 2025
 
-### Reaserch Intern – NIT Rourkela, Odisha  
-**Jun 2025 – Jul 2025**
--Developed and tested data-driven applications using Python and web technologies
--Assisted in building secure systems with focus on vulnerability mitigation
--Worked on malware analysis and secure coding practices
+* Built and maintained **data-driven web applications** using Python, HTML, and CSS
+* Improved **frontend-backend integration** for smoother data flow and performance
+* Developed **responsive and user-friendly interfaces** following clean code practices
+* Collaborated on debugging and optimizing UI for **consistent design across pages**
+* Designed and implemented an **end-to-end web-based dashboard** for real-time data visualization
 
-### Intern – Teachnook (Remote)  
-**May 2024 – Jun 2024**
-- Executed penetration testing using Nmap, Metasploit, Burp Suite, and Wireshark  
-- Prepared SIEM/SOAR-based security analysis reports  
+---
+### Intern — Teachnook (Remote)
+ May 2024 – Jun 2024
 
-### Virtual Intern – Tata Forage / Accenture (Remote)  
-**Jul 2024 – Aug 2024**
-- Simulated SOC workflows including log analysis and incident response  
-- Worked on malware detection and security case studies  
+* Contributed to building **web applications and REST APIs**
+* Developed **responsive UI components** with focus on usability and performance
+* Maintained **consistent design systems** across multiple pages
+* Followed **modern web development best practices** in project workflows
+
+---
+
+### Virtual Intern — Tata Forage / Accenture
+Jul 2024 – Aug 2024
+
+* Worked on **real-world development simulations and workflows**
+* Gained hands-on experience in **application design and system processes**
+* Practiced solving **industry-level case studies** and improving problem-solving skills
 
 ---
 
 ## Projects
 
-### Malware Detection Using GenAI  
-**Python, TensorFlow, React**
-- Built a Random Forest-based malware classifier using Windows PE static features  
-- Achieved ~97% accuracy on malware detection  
-- Integrated Google Gemini API for explainable AI-based predictions  
-- Developed a React + Vite dashboard for real-time malware analysis and visualization  
+### GenAI-Based Malware Detection Dashboard
 
-### PII Reduction Tool  
-**Python, OpenCV**
-- Automated detection and redaction of personally identifiable information  
-- Designed to support privacy compliance and secure data handling  
+**Python • TensorFlow • React (Vite) • Random Forest • Gemini API**
+
+* Built a **full-stack application** with ML-powered backend
+* Achieved **~97% accuracy** and displayed results via UI
+* Integrated APIs for **real-time prediction and visualization**
+* Designed a **responsive React dashboard**
 
 ---
 
-## Skills
-**Programming Languages:**  
-Python, C, C++, JavaScript, SQL  
+### Fake Review Detection + Hybrid Recommendation System
 
-**Web & Full-Stack Development:**  
-HTML, CSS, React.js, Node.js,Rest API  
+**React • Django • TF-IDF • SVD • SQLite • JWT**
 
-**Tools & Platforms:**  
-Python, Django, Django REST Framework, React.js (Vite), SQL , Git, GitHub, Postman (API Testing), VS Code, JWT Authentication
-  
-
-**Core CS Concepts:**  
-OOP, Data Structures, DBMS, Operating Systems  
+* Developed a **full-stack e-commerce platform**
+* Implemented **authentication, cart, and recommendation engine**
+* Built **clean UI with smooth user experience**
+* Integrated backend APIs for seamless functionality
 
 ---
 
-## Education
+## Tech Stack
 
-**B.Tech in Computer Science & Engineering **  
-Sambalpur University Institute of Information Technology  
-2022 – 2026
+### Languages
 
----
+Python • C • C++ • JavaScript • SQL
 
-## Certifications
+### Full-Stack Development
 
-- Google Cybersecurity Professional Certificate (2024)  
-- FreeCodeCamp Web & JavaScript Algorithms (2025)  
-- Tata GenAI Data Analytics (2025)  
-- Accenture Software Engineering Simulation (2025)  
+React.js • Django • REST APIs • HTML • CSS • Vite
+
+### Tools & Platforms
+
+• GitHub • Postman • VS Code 
+
+###  Core Concepts
+
+OOP • Data Structures • DBMS • Operating Systems
 
 ---
 
 ## Achievements
 
-- Reasearch Intern at **NIT Rourkela**  
-- **Hacktoberfest** Open-Source Contributor  
-- Active CTF participant on **TryHackMe** 
+*  - ⭐ 4-Star in HackerRank (Data Structures & Algorithms) — [View Profile](https://www.hackerrank.com/profile/priyankabehura51)
+*  Participant – Smart India Hackathon
+*  Active Open-Source Contributor (Hacktoberfest)
+*  Member – Google Developer Group (GDG)
+*  Literary Club Lead (organized 13+ events with 150+ participants)
 
+---
+## What I'm Currently Working On
+
+* Building **scalable full-stack applications**
+* Improving **DSA & problem-solving skills**
+* Exploring **modern web architectures and API design**
+
+---
+
+⭐️ *“Building clean, scalable, and impactful web applications.”*
 ---
 
 ## Leetcode 
