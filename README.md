@@ -7,7 +7,7 @@
  
 📍 Odisha, India
 
-[![Email](https://img.shields.io/badge/Email-priyankabehura584%40gmail.com-red)](mailto:priyankabehura584@gmail.com)
+[![Email](https://img.shields.io/badge/Email-priyankabehura584%40gmail.com-red)](mailto:priyankabehura05@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-priyankabehura-black)](https://github.com/priyankabehura)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/priyanka-b-3b4137292)
 
